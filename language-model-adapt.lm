@@ -1,0 +1,158 @@
+Language model created by QuickLM on Sat Apr 14 23:20:22 EDT 2018
+Carnegie Mellon University (c) 1996
+
+This model based on a corpus of 18 sentences and 80 words
+The (fixed) discount mass is 0.5
+
+\data\
+ngram 1=40
+ngram 2=57
+ngram 3=43
+
+\1-grams:
+-0.9488 </s> -0.3010
+-0.9488 <s> -0.2492
+-2.2041 Chrome -0.2492
+-1.9031 I -0.2492
+-2.2041 a -0.2983
+-1.9031 am -0.2956
+-2.2041 birthday -0.2492
+-2.2041 change -0.2492
+-2.2041 check -0.2983
+-2.2041 color -0.2983
+-2.2041 darkness -0.2492
+-2.2041 down -0.2492
+-2.2041 forty-two -0.2983
+-2.2041 happy -0.2983
+-2.2041 hello -0.2983
+-2.2041 hide -0.2956
+-1.9031 lights -0.2956
+-1.9031 log -0.2492
+-2.2041 me -0.2983
+-2.2041 music -0.2983
+-1.9031 open -0.2956
+-2.2041 pizza -0.2492
+-2.2041 player -0.2492
+-2.2041 rick -0.2983
+-2.2041 roll -0.2492
+-2.2041 search -0.2956
+-2.2041 show -0.2956
+-2.2041 silicon -0.2983
+-2.2041 sing -0.2983
+-2.2041 song -0.2492
+-1.9031 the -0.2956
+-2.2041 theme -0.2983
+-2.2041 traffic -0.2492
+-2.2041 up -0.2492
+-2.2041 valley -0.2492
+-2.2041 weather -0.2492
+-2.2041 web -0.2492
+-2.2041 whats -0.2956
+-2.2041 where -0.2956
+-2.2041 who -0.2956
+
+\2-grams:
+-1.5563 <s> check 0.0000
+-1.5563 <s> color 0.0000
+-1.5563 <s> forty-two 0.0000
+-1.5563 <s> happy 0.0000
+-1.5563 <s> hello 0.0000
+-1.5563 <s> hide 0.0000
+-1.2553 <s> lights 0.0000
+-1.2553 <s> open 0.0000
+-1.5563 <s> pizza 0.0000
+-1.5563 <s> rick 0.0000
+-1.5563 <s> search 0.0000
+-1.5563 <s> show 0.0000
+-1.5563 <s> sing 0.0000
+-1.5563 <s> whats 0.0000
+-1.5563 <s> where 0.0000
+-1.5563 <s> who 0.0000
+-0.3010 Chrome </s> -0.3010
+-0.3010 I </s> -0.3010
+-0.3010 a song 0.0000
+-0.3010 am I 0.0000
+-0.3010 birthday </s> -0.3010
+-0.3010 change </s> -0.3010
+-0.3010 check traffic 0.0000
+-0.3010 color theme 0.0000
+-0.3010 darkness </s> -0.3010
+-0.3010 down </s> -0.3010
+-0.3010 forty-two silicon 0.0000
+-0.3010 happy birthday 0.0000
+-0.3010 hello darkness 0.0000
+-0.3010 hide log 0.0000
+-0.6021 lights down 0.0000
+-0.6021 lights up 0.0000
+-0.3010 log </s> -0.3010
+-0.3010 me a 0.0000
+-0.3010 music player 0.0000
+-0.6021 open Chrome 0.0000
+-0.6021 open music 0.0000
+-0.3010 pizza </s> -0.3010
+-0.3010 player </s> -0.3010
+-0.3010 rick roll 0.0000
+-0.3010 roll </s> -0.3010
+-0.3010 search the -0.1761
+-0.3010 show log 0.0000
+-0.3010 silicon valley 0.0000
+-0.3010 sing me 0.0000
+-0.3010 song </s> -0.3010
+-0.6021 the weather 0.0000
+-0.6021 the web 0.0000
+-0.3010 theme change 0.0000
+-0.3010 traffic </s> -0.3010
+-0.3010 up </s> -0.3010
+-0.3010 valley </s> -0.3010
+-0.3010 weather </s> -0.3010
+-0.3010 web </s> -0.3010
+-0.3010 whats the -0.1761
+-0.3010 where am 0.0000
+-0.3010 who am 0.0000
+
+\3-grams:
+-0.3010 <s> check traffic
+-0.3010 <s> color theme
+-0.3010 <s> forty-two silicon
+-0.3010 <s> happy birthday
+-0.3010 <s> hello darkness
+-0.3010 <s> hide log
+-0.6021 <s> lights down
+-0.6021 <s> lights up
+-0.6021 <s> open Chrome
+-0.6021 <s> open music
+-0.3010 <s> pizza </s>
+-0.3010 <s> rick roll
+-0.3010 <s> search the
+-0.3010 <s> show log
+-0.3010 <s> sing me
+-0.3010 <s> whats the
+-0.3010 <s> where am
+-0.3010 <s> who am
+-0.3010 a song </s>
+-0.3010 am I </s>
+-0.3010 check traffic </s>
+-0.3010 color theme change
+-0.3010 forty-two silicon valley
+-0.3010 happy birthday </s>
+-0.3010 hello darkness </s>
+-0.3010 hide log </s>
+-0.3010 lights down </s>
+-0.3010 lights up </s>
+-0.3010 me a song
+-0.3010 music player </s>
+-0.3010 open Chrome </s>
+-0.3010 open music player
+-0.3010 rick roll </s>
+-0.3010 search the web
+-0.3010 show log </s>
+-0.3010 silicon valley </s>
+-0.3010 sing me a
+-0.3010 the weather </s>
+-0.3010 the web </s>
+-0.3010 theme change </s>
+-0.3010 whats the weather
+-0.3010 where am I
+-0.3010 who am I
+
+\end\
