@@ -1,7 +1,9 @@
 # PocketSphinx-Starterpack
 A small repo for the project K.I.F.T.
+
 **Required components**
 homebrew
+
 To install Pocket-Sphinx and it's dependencies :
 ```
 make pocketsphinx
