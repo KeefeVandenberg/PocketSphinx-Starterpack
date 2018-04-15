@@ -1,7 +1,7 @@
 # PocketSphinx-Starterpack
 A small repo for the project K.I.F.T.
 
-**Required components**
+**Required components:**
 
 homebrew
 
